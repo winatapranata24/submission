@@ -56,7 +56,7 @@ Teknik data preparation yang dilakukan:
 
   ![image](https://user-images.githubusercontent.com/62703894/196565164-60390902-8c69-409c-9324-c438ea061457.png)
   
-  Pada matriks korelasi di bawah dapat disimpulkan bahwa kebanyakan variabel memiliki keterikatan dan korelasi yang kuat antar variabel lainnya, dimana nilai korelasi antar variabel bernilai lebih dari 0.8 atau mendekati 1.
+  Pada matriks korelasi di atas dapat disimpulkan bahwa kebanyakan variabel memiliki keterikatan dan korelasi yang kuat antar variabel lainnya, dimana nilai korelasi antar variabel bernilai lebih dari 0.8 atau mendekati 1.
   ![image](https://user-images.githubusercontent.com/62703894/196596796-4ec460e8-0aa6-4191-bff7-f14588fc94e5.png)
   
   Fitur Close Price pada harga Bitcoin menjadi target prediksi kali ini, maka dapat disimpulkan bahwa peningkatan harga bitcoin sebanding dengan penurunan jumlah sampel
