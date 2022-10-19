@@ -61,7 +61,8 @@ Teknik data preparation yang dilakukan:
   
   Fitur Close Price pada harga Bitcoin menjadi target prediksi kali ini, maka dapat disimpulkan bahwa peningkatan harga bitcoin sebanding dengan penurunan jumlah sampel
   
-  ![image](https://user-images.githubusercontent.com/62703894/196596845-426e2f25-9e6d-448d-b071-5157f6b95ff9.png)
+  ![image](https://user-images.githubusercontent.com/62703894/196597429-336bdcf1-7c58-427e-b131-06975a83d5b1.png)
+
   
   Korelasi yang terdapat dalam fitur Close pada sumbu y dengan fitur High, Low, Open, dan Marketcap termasuk korelasi yang tinggi. Sedangkan fitur Volume korelasi nya cukup lemah, sebaran datanya tidak membentuk pola.
 
